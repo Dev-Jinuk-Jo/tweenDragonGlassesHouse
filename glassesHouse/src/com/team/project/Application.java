@@ -806,7 +806,6 @@ public class Application {
 	}
 
 
-
 	private static void saveItem() throws Exception {
 		
 		BufferedWriter itemWriter = new BufferedWriter(new FileWriter(Path.ITEM.getPath()));
@@ -857,7 +856,6 @@ public class Application {
 		}
 		writer.close();
 	}
-
 
 
 	private static void saveOrder() throws Exception {
