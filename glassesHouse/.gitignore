@@ -1,0 +1,14 @@
+# os관련
+.DS_Store
+/.DS_Store
+*.Thumbs.db
+
+# 컴파일 결과물
+bin/
+*.class
+
+# 로그 파일
+*.log
+
+# 압축 파일
+.zip
